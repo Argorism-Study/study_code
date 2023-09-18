@@ -3,6 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-int mai(){
-    
+int main(){
+
 }
+//just doing this
